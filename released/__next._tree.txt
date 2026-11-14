@@ -1,0 +1,11 @@
+:HL["/kaotonix-website/_next/static/chunks/3mkwg2qisit35.css","style"]
+:HL["/kaotonix-website/_next/static/media/0c795a286deabae8-s.p.3vm0tq4e-zz_5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kaotonix-website/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c9e5d00ca525a668776460a6","image"]
+:HL["https://i.ytimg.com/vi/gcX1woWouC0/hqdefault.jpg","image"]
+:HL["https://i.ytimg.com/vi/9z4aUBGnxXw/hqdefault.jpg","image"]
+:HL["https://i.ytimg.com/vi/PVKTjIQc7aw/hqdefault.jpg","image"]
+:HL["https://i.ytimg.com/vi/gKt9n8tQ9dc/hqdefault.jpg","image"]
+:HL["https://i.ytimg.com/vi/hFqv79N3qls/hqdefault.jpg","image"]
+:HL["https://i.ytimg.com/vi/J_yza6p8uIY/hqdefault.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"released","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"fHrNyZEPEP5ORscNMcXFk"}
